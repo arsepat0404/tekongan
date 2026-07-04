@@ -1,0 +1,19 @@
+{
+  "name": "Tekongan — Petak Umpet Jowo Timuran",
+  "short_name": "Tekongan",
+  "description": "Real-time multiplayer Tekongan — traditional East Javanese hide & seek.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "categories": ["games", "entertainment", "social"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
